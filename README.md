@@ -1,8 +1,8 @@
 # 👩🏽‍💻 Giovanna Nascimento
 
-**`Fultura Desenvolvedora FullStack`**
+**`Futura Desenvolvedora FullStack`**
 
-Me chamo Giovanna e sou estudante de Ciência da Computação na CESAR School, apaixonada por tecnologia, inovação e desenvolvimento de soluções que impactam positivamente a vida das pessoas.
+Eu me chamo Giovanna e sou estudante de Ciência da Computação na CESAR School, apaixonada por tecnologia, inovação e desenvolvimento de soluções que impactam positivamente a vida das pessoas.
 
 Busco constantemente aprimorar minhas habilidades técnicas e humanas, atuando com seriedade, curiosidade e comprometimento em cada projeto.
 
